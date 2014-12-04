@@ -1,0 +1,15 @@
+<h3>About 60 Second Yoga</h3>
+<span><b>What Does it Do?</b></span> 
+<p>Look at the Poses on the screen and set the timer.  The timer goes for 60 seconds.  When the bell goes off, it's time to get into another pose.</p> 
+
+<span><b>Auto or Manual Advance</b></span>
+<p>You can choose to have the poses advance manually or automatically for hands free operation.  There is a period of 15 seconds between each pose in the automatic setting.</p>
+
+<span><b>Difficulty of Poses</b></span>
+<p>You can select Basic Poses, Advanced, or both Basic and Advanced Poses.  This is set up in the settings option in your menu.</p>
+
+<span><b>Can I Skip a Pose?</b></span>
+<p>If there is a pose you wish to keep out of your <em>60 Second Yoga</em> rotation, you can select "Skip" from the menu bar.  
+
+<span><b>Original Concept and Design</b></span>
+<p>60 Second Yoga was conceptualized by Kelly Vance of Kelly Vance Personal Training and developed by Kristy Welsh.

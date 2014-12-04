@@ -1,0 +1,53 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_settings"
+        android:title="@string/menu_settings"
+        android:showAsAction="ifRoom|withText"
+        android:orderInCategory="2">
+        <menu>
+            <item android:id="@+id/basic"
+                  android:title="@string/basicOption"></item>
+            <item android:id="@+id/advanced"
+                 android:title="@string/advancedOption"></item>
+            <item android:id="@+id/allPoses"
+                 android:title="@string/advancedAndBasicOption"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/menu_automatic"
+        android:title="@string/automatic_settings"
+        android:showAsAction="ifRoom|withText"
+        android:orderInCategory="1">
+        <menu>
+            <item android:id="@+id/automatic"
+                  android:title="@string/automaticOption"></item>
+            <item android:id="@+id/manual"
+                 android:title="@string/manualOption"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/upgrade" 
+        android:orderInCategory="120"
+        android:title="@string/upgrade"
+        android:showAsAction="ifRoom|withText">
+        <menu>
+            <item android:id="@+id/noAds"
+                  android:title="@string/noads"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/skip" 
+        android:orderInCategory="50"
+        android:title="@string/skipOption"
+        android:showAsAction="never"></item>
+    
+    <item android:id="@+id/about" 
+        android:orderInCategory="100"
+        android:title="@string/aboutOption"
+        android:showAsAction="never"></item>
+    
+    
+    <item android:id="@+id/quit" 
+        android:orderInCategory="150"
+        android:title="@string/quit"
+        android:showAsAction="never"></item>
+    
+    
+
+</menu>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:gravity="center_horizontal">
+<TextView
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+		android:textStyle="bold" 
+		android:gravity="center"
+		android:textColor="#FFFFFF"	
+        android:text="@string/title" />
+    
+<TextView
+        android:id="@+id/yoganame"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+		android:textStyle="bold" 
+		android:textColor="#FFFFFF"	
+		android:gravity="center"
+		android:layout_below="@+id/title"
+        android:text="Sanskrit Title" />
+    <ImageView
+        android:id="@+id/yogapose"
+        android:layout_width="300dp"
+        android:layout_height="310dp"
+        android:focusable="true" 
+        android:clickable="true"
+        android:layout_below="@+id/yoganame"
+        android:src="@drawable/bow"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+       />
+    
+    <TextView
+        android:id="@+id/yogatext"
+        android:layout_height="300dp"
+        android:layout_width="310dp"
+        android:layout_below="@+id/yoganame"
+        android:text="@string/yogatext"
+        android:textSize="15sp"
+        android:paddingRight="1dp" 
+        android:paddingBottom="10dp"
+        android:paddingLeft="1dp"
+        android:paddingTop="10dp"
+        android:clickable="true" 
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:visibility="gone"
+        />
+
+  
+
+</RelativeLayout>
+
+
+
+

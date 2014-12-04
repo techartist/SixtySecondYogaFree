@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="help">Help</string>
+    <string name="hello">Hello</string>
+    <string name="menu_settings">Difficulty</string>
+    <string name="title_activity_yoga_poses">60 Second Yoga</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="app_name">60 Second Yoga Free</string>
+    <string name="exitOption">Exit</string>
+    <string name="aboutOption">About</string>
+    <string name="basicOption">Basic Poses Only</string>
+    <string name="advancedOption">Advanced Poses Only</string>
+    <string name="advancedAndBasicOption">All Poses</string>
+    <string name="skipOption">Skip Pose</string>
+    <string name="automaticOption">Automatic Advance</string>
+    <string name="manualOption">Manual Advance</string>
+    <string name="automatic_settings">Progress</string>
+    <string name="done">Done</string>
+    <string name="eula_button">I Accept the Terms</string>
+    <string name="about">About</string>
+    <string name="eula">Eula</string>
+    <string name="title_about_activity">About Activity</string>
+    <string name="title_eula_activity">Terms and Conditions</string>
+    <string name="title">Title</string>
+    <string name="yogatext">Yogatext</string>
+    <string name="difficultytext">difficulty</string>
+    <string name="autotext">autotext</string>
+    <string name="opening"></string>
+    <string name="quit">Quit</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="noads">No Ads Version</string>
+
+</resources>
